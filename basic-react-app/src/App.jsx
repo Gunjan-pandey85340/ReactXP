@@ -1,11 +1,15 @@
 import "./App.css";
-import ProductTab from "./productTab.jsx";
+// import ProductTab from "./productTab.jsx";
+import Button from "./Button.jsx";  
+import Form from "./Form.jsx";
 
 function App() {
   return (
     <>
-      <h2>Blockbuster Deal | Shop Now</h2>
-      <ProductTab />
+      {/* <h2>Blockbuster Deal | Shop Now</h2>
+      <ProductTab /> */}
+      {/* <Button /> */}
+      <Form/>
     </>
   );
 }
