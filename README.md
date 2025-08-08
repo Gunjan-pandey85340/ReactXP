@@ -15,8 +15,9 @@ This app allows users to add tasks, delete tasks, mark all as done, and manage t
 ---
 
 ## 📸 Preview
+<img width="1920" height="906" alt="Todolist" src="https://github.com/user-attachments/assets/9966d735-fc33-4944-9cee-4279fbc99e22" />
 
-![To-Do List Screenshot](Screenshot (88).png)
+
 
 
 ---
