@@ -16,7 +16,7 @@ This app allows users to add tasks, delete tasks, mark all as done, and manage t
 
 ## 📸 Preview
 
-![To-Do List Screenshot](./todo/public/todo-preview.png)
+![To-Do List Screenshot](Screenshot (88).png)
 
 
 ---
