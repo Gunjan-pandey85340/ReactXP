@@ -1,11 +1,11 @@
 body {
-  background: #91bca6;
+  background: hwb(60 7% 93%);
   font-family: 'Segoe UI', Arial, sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('C:\Users\gunja\OneDrive\Desktop\React\react-state\img.jpg');
+  /* background-image: url('C:\Users\gunja\OneDrive\Desktop\React\react-state\img.jpg'); */
   background-size:cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -7,7 +7,6 @@ export default function TodoList() {
   ]);
   let [newTodo, setNewTodo] = useState("");
 
-  // Get today's date in format: Friday, 8 August
   const today = new Date();
   const day = today.toLocaleDateString("en-US", { weekday: "long" });
   const date = today.getDate();
